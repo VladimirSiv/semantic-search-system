@@ -1,0 +1,16 @@
+# Optimized files
+*/__pycache__/
+*.py[cod]
+
+# Editors
+*.swp
+*.vscode/
+
+# Environment
+*.env
+
+# Logs
+logs/
+
+# Data
+data/
